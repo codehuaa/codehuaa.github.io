@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>hexo使用（备忘）</title>
+    <link href="/2024/08/29/hexo%E4%BD%BF%E7%94%A8%EF%BC%88%E5%A4%87%E5%BF%98%EF%BC%89/"/>
+    <url>/2024/08/29/hexo%E4%BD%BF%E7%94%A8%EF%BC%88%E5%A4%87%E5%BF%98%EF%BC%89/</url>
+    
+    <content type="html"><![CDATA[<h2 id="1-新建"><a href="#1-新建" class="headerlink" title="1. 新建"></a>1. 新建</h2><p>进入 hexo 博客文件目录，运行如下代码，创建 post</p><figure class="highlight actionscript"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs actionscript">hexo <span class="hljs-keyword">new</span> &#123;post_name&#125;<br></code></pre></td></tr></table></figure><h2 id="2-上传"><a href="#2-上传" class="headerlink" title="2. 上传"></a>2. 上传</h2><figure class="highlight css"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><code class="hljs css">hexo <span class="hljs-selector-tag">g</span> s<br>hexo d<br></code></pre></td></tr></table></figure>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>杂事记录</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>测试</title>
     <link href="/2024/08/28/%E6%B5%8B%E8%AF%95/"/>
     <url>/2024/08/28/%E6%B5%8B%E8%AF%95/</url>
